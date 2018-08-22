@@ -149,7 +149,7 @@ Request:
 -   "reportSuiteID": required for creating, also required when updating the definition
 -   "name": required for creating
 -   "polarity": optional, one of "positive", "negative", defaults to "positive"
--   "type": optional, one of "number", "date", "currency", "percent", defaults to "number"
+-   "type": optional, one of "number", "date", "currency", "percent", defaults to "decimal"
 -   "precision": optional, an integer between 0 and 10, defaults to 0
 
 Response:
